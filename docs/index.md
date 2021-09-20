@@ -1,12 +1,13 @@
 ---
 title: Homepage for Ultimate Frisbee in Cornwall, UK
-description: Information and links for people playing Ultimate Frisbee in Cornwall
+description: Information and links for people wanting to play Ultimate in Cornwall
 ---
 
 ## About Ultimate
 
 Ultimate (also known as Ultimate Frisbee) is a team sport similar netball or football, but played with a flying disc (frisbee).
-Find out more about the sport here: https://www.ukultimate.com/what
+
+Find out more about the sport at [UK Ultimate](https://www.ukultimate.com/what)
 
 ## Where to play in Cornwall
 
