@@ -15,7 +15,7 @@ These groups are currently active:
 * [Kernow Ultimate on Facebook](https://www.facebook.com/groups/kernowultimate)
 
 ### Falmouth Community Ultimate, Falmouth
-* [Falmouth Community Ultimate on Facebook] (https://www.facebook.com/FalUltimate)
+* [Falmouth Community Ultimate on Facebook](https://www.facebook.com/FalUltimate)
 
 
 
