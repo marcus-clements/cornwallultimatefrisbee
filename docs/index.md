@@ -1,3 +1,4 @@
+---
 title: Homepage for Ultimate Frisbee in Cornwall, UK
 ---
 
