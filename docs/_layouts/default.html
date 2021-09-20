@@ -27,7 +27,7 @@
       {{ content }}
 
       <footer class="site-footer">
-        Site maintained by {%  for contributor in site.github.contributors %}<a href="{{ contributor.url }}">contributor.name</a> {%  endfor %}
+        Site maintained by {%  for contributor in site.github.contributors %}<a href="{{ contributor.url }}">{{ contributor.name }}</a> {%  endfor %}
       </footer>
     </main>
   </body>
