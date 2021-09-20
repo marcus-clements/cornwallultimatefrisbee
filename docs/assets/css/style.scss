@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background-color: #fbfbfb;
+}
+
 .page-header {
-  background: #333 url("/assets/images/banner.jpg") no-repeat center;
+  background: #fbfbfb url("/assets/images/banner.jpg") no-repeat center;
+  border-bottom: 1px solid #E5E5E5;
 }
