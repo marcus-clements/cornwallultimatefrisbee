@@ -27,8 +27,14 @@
       {{ content }}
 
       <footer class="site-footer">
-        <p>This site is maintained by {%  for contributor in site.github.contributors %}<a href="{{ contributor.url }}">{{ contributor.login }}</a> {%  endfor %}</p>
-        <p>Please contact us through these links to let us know about new groups playing Ultimate in Cornwall.</p>
+        <p>This site is maintained by
+          <ul>
+            {%  for contributor in site.github.contributors %}
+              <li><a href="{{ contributor.html_url }}">{{ contributor.login }}</a></li>
+            {%  endfor %}
+          </ul>
+        </p>
+        <p>Please contact us through the links to let us know about new groups playing Ultimate in Cornwall.</p>
       </footer>
     </main>
   </body>
