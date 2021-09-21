@@ -19,7 +19,7 @@ These groups are currently active:
 ### Falmouth Community Ultimate, Falmouth
 * [Falmouth Community Ultimate on Facebook](https://www.facebook.com/FalUltimate)
 
-### St Austell Ultimate,
+### St Austell Ultimate
 * [St Austell Ultimate on Facebook](https://www.facebook.com/groups/525748172116684)
 
 
