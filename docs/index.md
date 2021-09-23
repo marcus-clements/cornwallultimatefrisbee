@@ -1,5 +1,5 @@
 ---
-title: Homepage for Ultimate Frisbee in Cornwall, UK
+title: Ultimate Frisbee in Cornwall, UK
 description: Information and links for people wanting to play Ultimate in Cornwall
 tags: ultimate frisbee, team sports, flying disc, cornwall, kernow
 ---
