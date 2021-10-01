@@ -24,5 +24,3 @@ These groups are currently active:
 * [St Austell Ultimate on Facebook](https://www.facebook.com/groups/525748172116684)
 
 
-
-
